@@ -11,6 +11,8 @@
 [![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter&logoColor=white)](Merowe_Dam_Water_Quality_v3.ipynb)
 [![LinkedIn](https://img.shields.io/badge/Repost_on-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/osman-o-a-ibrahim-a02a9a197_remotesensing-waterquality-googleearthengine-activity-7427338005549350912-h3jJ)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Osman-Geomatics93/Merowe-Dam-Water-Quality/blob/main/Merowe_Dam_Water_Quality_v3.ipynb)
+
 ---
 
 **A comprehensive remote sensing pipeline for monitoring water quality dynamics across Merowe Dam reservoir (925.7 km²), Sudan, using Sentinel-2 multispectral imagery (2023-2024) processed through Google Earth Engine and XArray.**
