@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Earth Engine credentials (NEVER commit)
+.config/earthengine/
+
+# Generated output files (PNGs are kept in Images/)
+*.csv
+01_*.png
+02_*.png
+03_*.png
+04_*.png
+05_*.png
+06_*.png
+07_*.png
+08_*.png
+09_*.png
+10_*.png
+11_*.png
+12_*.png
+13_*.png
+14_*.png
+15_*.png
+16_*.png
+17_*.png
